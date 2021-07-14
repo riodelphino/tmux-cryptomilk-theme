@@ -2,6 +2,8 @@
 
 Powerline-styled tmux theme
 
+<p align="center"><img src="./screenshots/tmux-cryptomilk-screenshot.png"/></p>
+
 Based on [tmux-dark-plus-theme](https://github.com/khanghh/tmux-dark-plus-theme)
 
 ## Installation
