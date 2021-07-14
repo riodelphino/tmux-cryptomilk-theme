@@ -10,7 +10,7 @@ Based on [tmux-dark-plus-theme](https://github.com/khanghh/tmux-dark-plus-theme)
 
 1. Add plugin to the list of TPM plugins in `.tmux.conf`:
 
-        set -g @plugin 'cryptomilk/tmux-cryptomilk'
+        set -g @plugin 'cryptomilk/tmux-cryptomilk#main'
 
 2. Hit `prefix + I` to fetch the plugin and source it. The theme should now be working.
 
